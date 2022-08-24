@@ -9,7 +9,7 @@
 
 
 
-## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytmui.netlify.app/)
+## Paytm UI Clone (FULLY Responsive) [Live Link](https://paytm-clone-saurabhpande-ineuron-ai.netlify.app//)
 
 
 ![Desktop](./Assets/Screenshot%202022-08-19%20232408.png)
