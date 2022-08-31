@@ -10,7 +10,8 @@
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Paytm--Clone-orange)
 
 
-## Paytm UI Clone (FULLY Responsive) [GO LIVE](https://paytmui.netlify.app/)
+# Paytm UI Clone (FULLY Responsive) [GO LIVE](https://paytm-clone-saurabhpande-ineuron-ai.netlify.app//)
+
 
 
 ![Desktop](./Assets/paytm%20clone.png)
