@@ -1,4 +1,4 @@
-# Tailwind CSS Bootcamp Project : Paytm (More Than +1000 lines)
+# Tailwind CSS Bootcamp Project : Instant pay UI clone(More Than +1000 lines)
 ## **By Saurabh**
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
@@ -10,7 +10,7 @@
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Paytm--Clone-orange)
 
 
-# Paytm UI Clone (FULLY Responsive) [GO LIVE](https://paytm-clone-saurabhpande-ineuron-ai.netlify.app//)
+# Instant PAY UI Clone (FULLY Responsive) [GO LIVE](https://tailwind-css-p1-saurabhpande-ineuron.netlify.app/)
 
 
 
