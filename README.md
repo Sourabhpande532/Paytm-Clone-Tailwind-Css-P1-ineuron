@@ -7,17 +7,11 @@
 ![Responsive-Design](https://img.shields.io/badge/Responsive-Design-orange)
 ![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--1-lightgrey)
 
-![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Paytm--Clone-orange)
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS--Clone-orange)
 
 
 # Instant PAY UI Clone (FULLY Responsive) [GO LIVE](https://tailwind-css-p1-saurabhpande-ineuron.netlify.app/)
 
-
-
-![Desktop](./Assets/paytm%20clone.png)
-
-***
-![Desktop](./Assets/Screenshot%202022-08-20%20084647.png)
 
 ![Desktop](./Assets/paytm%20features.png)
 
